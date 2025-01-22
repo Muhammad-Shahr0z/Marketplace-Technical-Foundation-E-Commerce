@@ -1,0 +1,16 @@
+Test Area,Test Details,Result
+Add to Cart,Tested Add to Cart functionality.,Working Properly
+Handle Delete,Tested Handle Delete function for removing items from the cart.,Working Properly
+Add to Cart Handle,Tested the Add to Cart Handle function for handling cart updates.,Working Properly
+Increment/Decrement,Tested Increment and Decrement functions for product quantity.,Working Properly
+Product Quantity,Tested the functionality for managing product quantity in the cart.,Working Properly
+Form Submission,Tested form submission which created a user in Sanity and displayed warnings for invalid or duplicate emails.,Working Properly
+Dynamic Validation,Implemented dynamic checking to show warning for duplicate or invalid information.,No Errors
+Dynamic Testing,Tested all 12 projects dynamically and verified correct loading without errors.,Working Properly
+Loader,Implemented a loader to show while data is being fetched to prevent errors.,Working Properly
+Cart Price Calculation,Tested cart price calculation and automatic discount handling.,Working Properly
+Discount Handling,Verified automatic display of discount label and discount application in cart.,Working Properly
+Reducer Function,Verified that the reducer function is working correctly.,Working Properly
+Local Storage,Tested saving cart items to local storage using useAtom Jotai hook,and verified proper loading on page reload.
+Client-Side Rendering,Noted slight loading delay on the client-side compared to server-side rendering. Will be fixed for smoother page transitions.,To be fixed
+Server-Side Rendering,Verified server-side rendering for proper page loading and smooth performance.,Working Properly
